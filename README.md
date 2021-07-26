@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Adithya-M-Dileep/Adithya-M-Dileep/blob/main/giff.gif?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/Adithya-M-Dileep/Adithya-M-Dileep/blob/main/gifss.gif?raw=true)
 
 <h1> <img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="40" /> Tech Stack</h1>
  
