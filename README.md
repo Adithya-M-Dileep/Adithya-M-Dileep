@@ -16,7 +16,7 @@
  <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="visual Studio" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>&nbsp;&nbsp;
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://unity.com/" target="_blank"> <img src="https://github.com/Adithya-M-Dileep/Adithya-M-Dileep/blob/main/logos/unity-tab-square-black.png" alt="unity" width="40" height="40"/> </a>&nbsp;&nbsp;
 </p>
 
 
