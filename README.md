@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Adithya-M-Dileep/Adithya-M-Dileep/blob/main/gifss.gif?raw=true)
 
 <br>
-<p align='center'>I'm an undergrad student at VIT Chennai pursuing Computer Science and engineering with Specialization in Cyber-Physical systems.Learing to code and gaming are the two things that excites me most in my life.</p>
+<p align='center'>I'm an undergrad student at VIT Chennai pursuing Computer Science and engineering with Specialization in Cyber-Physical systems.Learning to code and gaming are the two things that excites me most in my life.</p>
 <br>
 <h1> <img src="https://media.giphy.com/media/eltkEbq0Zl4aGQHisf/giphy.gif" width="40" /> Tech Stack</h1>
  
