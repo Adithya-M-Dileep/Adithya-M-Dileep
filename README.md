@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/adithya-m-dileep-92050a198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-m-dileep-92050a198" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14636931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14636931" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/a_a_d_h_i__.__m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_a_d_h_i__.__m_" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/aadhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadhim" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCd1P8f95OLj7d5SeZn1FtDQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aadhim" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/adithyamdileep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adithyamdileep" height="30" width="40" /></a>
 </p>
 <br><br><br><br><br>
